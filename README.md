@@ -18,7 +18,7 @@ This repository contains practical implementations of Machine Learning algorithm
 | 7 | OLS, Ridge and Lasso Regression | [clean_ols_ridge_lasso.ipynb](clean_ols_ridge_lasso.ipynb) |
 | 8 | Logistic Regression | [logistic_regression_placement_eligibility_dataset.ipynb](logistic_regression_placement_eligibility_dataset.ipynb) |
 | 9 | Outlier Analysis using OLS, Ridge and Lasso | [outlier_ols_ridge_lasso.ipynb](outlier_ols_ridge_lasso.ipynb) |
-
+|10| Customer_Segmentation_Results |
 ## 🛠️ Technologies Used
 
 - Python
